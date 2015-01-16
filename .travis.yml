@@ -1,6 +1,6 @@
 language: bash
 install:
-  - ./install.sh
+  - ./build/install.sh
 script:
   - ./build.sh
 notifications:
